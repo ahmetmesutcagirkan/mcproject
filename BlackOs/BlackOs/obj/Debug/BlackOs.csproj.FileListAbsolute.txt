@@ -1,0 +1,11 @@
+C:\Projects\BlackOs\BlackOs\bin\Debug\BlackOs.exe.config
+C:\Projects\BlackOs\BlackOs\bin\Debug\BlackOs.exe
+C:\Projects\BlackOs\BlackOs\bin\Debug\BlackOs.pdb
+C:\Projects\BlackOs\BlackOs\bin\Debug\Castle.Core.dll
+C:\Projects\BlackOs\BlackOs\bin\Debug\Castle.Windsor.dll
+C:\Projects\BlackOs\BlackOs\bin\Debug\Castle.Core.pdb
+C:\Projects\BlackOs\BlackOs\bin\Debug\Castle.Core.xml
+C:\Projects\BlackOs\BlackOs\bin\Debug\Castle.Windsor.pdb
+C:\Projects\BlackOs\BlackOs\bin\Debug\Castle.Windsor.xml
+C:\Projects\BlackOs\BlackOs\obj\Debug\BlackOs.exe
+C:\Projects\BlackOs\BlackOs\obj\Debug\BlackOs.pdb
